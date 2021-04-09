@@ -1,0 +1,142 @@
+[
+    [
+        {
+            "calcul": "25 + 75 = ?",
+            "result": 100
+        },
+        {
+            "calcul": "90 + 46 = ?",
+            "result": 136
+        },
+        {
+            "calcul": "23 + 27 = ?",
+            "result": 50
+        }
+    ],
+    [
+        {
+            "calcul": "67 + 34 = ?",
+            "result": 101
+        },
+        {
+            "calcul": "56 + 12 = ?",
+            "result": 68
+        },
+        {
+            "calcul": "41 + 150 = ?",
+            "result": 191
+        }
+    ],
+    [
+        {
+            "calcul": "78 + 25 = ?",
+            "result": 103
+        },
+        {
+            "calcul": "10 + 58 = ?",
+            "result": 68
+        },
+        {
+            "calcul": "12 + 23 = ?",
+            "result": 35
+        }
+    ],
+    [
+        {
+            "calcul": "85 + 29 = ?",
+            "result": 114
+        },
+        {
+            "calcul": "47 + 21 = ?",
+            "result": 68
+        },
+        {
+            "calcul": "54 + 89 = ?",
+            "result": 143
+        }
+    ],
+    [
+        {
+            "calcul": "56 + 57 = ?",
+            "result": 113
+        },
+        {
+            "calcul": "48 + 28 = ?",
+            "result": 76
+        },
+        {
+            "calcul": "68 + 17 = ?",
+            "result": 85
+        }
+    ],
+    [
+        {
+            "calcul": "45 - 15 = ?",
+            "result": 30
+        },
+        {
+            "calcul": "25 - 17 = ?",
+            "result": 8
+        },
+        {
+            "calcul": "57 - 32 = ?",
+            "result": 25
+        }
+    ],
+    [
+        {
+            "calcul": "13 - 7 = ?",
+            "result": 6
+        },
+        {
+            "calcul": "34 - 24 = ?",
+            "result": 10
+        },
+        {
+            "calcul": "89 - 87 = ?",
+            "result": 2
+        }
+    ],
+    [
+        {
+            "calcul": "24 - 23 = ?",
+            "result": 1
+        },
+        {
+            "calcul": "56 - 25 = ?",
+            "result": 31
+        },
+        {
+            "calcul": "67 - 12 = ?",
+            "result": 55
+        }
+    ],
+    [
+        {
+            "calcul": "22 - 13 = ?",
+            "result": 9
+        },
+        {
+            "calcul": "53 - 21 = ?",
+            "result": 32
+        },
+        {
+            "calcul": "45 - 23 = ?",
+            "result": 22
+        }
+    ],
+    [
+        {
+            "calcul": "160 - 54 = ?",
+            "result": 106
+        },
+        {
+            "calcul": "76 - 48 = ?",
+            "result": 28
+        },
+        {
+            "calcul": "97 - 39 = ?",
+            "result": 58
+        }
+    ]
+]

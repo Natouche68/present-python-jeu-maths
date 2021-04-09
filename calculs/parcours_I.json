@@ -1,0 +1,142 @@
+[
+    [
+        {
+            "calcul": "8 * 5 = ?",
+            "result": 40
+        },
+        {
+            "calcul": "6 * 8 = ?",
+            "result": 48
+        },
+        {
+            "calcul": "4 * 7 = ?",
+            "result": 28
+        }
+    ],
+    [
+        {
+            "calcul": "3 * 9 = ?",
+            "result": 27
+        },
+        {
+            "calcul": "9 * 4 = ?",
+            "result": 36
+        },
+        {
+            "calcul": "4 * 3 = ?",
+            "result": 12
+        }
+    ],
+    [
+        {
+            "calcul": "7 * 9 = ?",
+            "result": 63
+        },
+        {
+            "calcul": "6 * 6 = ?",
+            "result": 36
+        },
+        {
+            "calcul": "5 * 0 = ?",
+            "result": 0
+        }
+    ],
+    [
+        {
+            "calcul": "2 * 8 = ?",
+            "result": 16
+        },
+        {
+            "calcul": "3 * 3 = ?",
+            "result": 9
+        },
+        {
+            "calcul": "11 * 9 = ?",
+            "result": 99
+        }
+    ],
+    [
+        {
+            "calcul": "11 * 5 = ?",
+            "result": 55
+        },
+        {
+            "calcul": "7 * 7 = ?",
+            "result": 49
+        },
+        {
+            "calcul": "10 * 5",
+            "result": 50
+        }
+    ],
+    [
+        {
+            "calcul": "11 * 6 = ?",
+            "result": 66
+        },
+        {
+            "calcul": "10 * 2 = ?",
+            "result": 20
+        },
+        {
+            "calcul": "8 * 7 = ?",
+            "result": 56
+        }
+    ],
+    [
+        {
+            "calcul": "12 / 3 = ?",
+            "result": 4
+        },
+        {
+            "calcul": "80 / 4 = ?",
+            "result": 20
+        },
+        {
+            "calcul": "125 / 5 = ?",
+            "result": 25
+        }
+    ],
+    [
+        {
+            "calcul": "128 / 4 = ?",
+            "result": 32
+        },
+        {
+            "calcul": "34 / 2 = ?",
+            "result": 17
+        },
+        {
+            "calcul": "28 / 7 = ?",
+            "result": 4
+        }
+    ],
+    [
+        {
+            "calcul": "96 / 4 = ?",
+            "result": 24
+        },
+        {
+            "calcul": "96 / 3 = ?",
+            "result": 32
+        },
+        {
+            "calcul": "26 / 2 = ?",
+            "result": 13
+        }
+    ],
+    [
+        {
+            "calcul": "80 / 8 = ?",
+            "result": 10
+        },
+        {
+            "calcul": "4 / 1 = ?",
+            "result": 4
+        },
+        {
+            "calcul": "1 234 567 890 / 1 234 567 890 = ?",
+            "result": 1
+        }
+    ]
+]

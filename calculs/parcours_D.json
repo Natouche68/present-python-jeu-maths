@@ -1,0 +1,142 @@
+[
+    [
+        {
+            "calcul": "Ecris en nombre decimal :    \n1/4 = ?",
+            "result": 0.25
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n3/4 = ?",
+            "result": 0.75
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n1/2 = ?",
+            "result": 0.5
+        }
+    ],
+    [
+        {
+            "calcul": "Ecris en nombre decimal :    \n8/10 = ?",
+            "result": 0.8
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n3/10 = ?",
+            "result": 0.3
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n6/10 = ?",
+            "result": 0.6
+        }
+    ],
+    [
+        {
+            "calcul": "Ecris en nombre decimal :    \n67/100 = ?",
+            "result": 0.67
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n25/100 = ?",
+            "result": 0.25
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n24/100 = ?",
+            "result": 0.24
+        }
+    ],
+    [
+        {
+            "calcul": "Ecris en nombre decimal :    \n7/5 = ?",
+            "result": 1.4
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n258/2 = ?",
+            "result": 129
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n4 829/10 = ?",
+            "result": 492.9
+        }
+    ],
+    [
+        {
+            "calcul": "Ecris en nombre decimal :    \n700/400 = ?",
+            "result": 1.75
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n42 648/2 000 = ?",
+            "result": 21.324
+        },
+        {
+            "calcul": "Ecris en nombre decimal :    \n123 456 789 000/1 000 = ?",
+            "result": 123456789
+        }
+    ],
+    [
+        {
+            "calcul": "6.8 + 8,3 = ?",
+            "result": 15.1
+        },
+        {
+            "calcul": "1/4 + 4/8 = ?",
+            "result": 0.75
+        },
+        {
+            "calcul": "5.6 + 9/10 = ?",
+            "result": 6.5
+        }
+    ],
+    [
+        {
+            "calcul": "7.4 + 3.4 = ?",
+            "result": 10.8
+        },
+        {
+            "calcul": "5.3 + 9.7 = ?",
+            "result": 15
+        },
+        {
+            "calcul": "64 + 5/4 = ?",
+            "result": 65.25
+        }
+    ],
+    [
+        {
+            "calcul": "8.4 + 9.3 = ?",
+            "result": 17.7
+        },
+        {
+            "calcul": "6.2 + 7/2 = ?",
+            "result": 9.7
+        },
+        {
+            "calcul": "68 + 632/1 000 = ?",
+            "result": 68.632
+        }
+    ],
+    [
+        {
+            "calcul": "4/5 + 7/100 = ?",
+            "result": 0.87
+        },
+        {
+            "calcul": "8.9 - 2.1 = ?",
+            "result": 6.8
+        },
+        {
+            "calcul": "66.7 + 1.3 = ?",
+            "result": 68
+        }
+    ],
+    [
+        {
+            "calcul": "8.3 + 47.105 = ?",
+            "result": 55.405
+        },
+        {
+            "calcul": "3.6 + 54.21 = ?",
+            "result": 57.81
+        },
+        {
+            "calcul": "48.28 - 13.13 = ?",
+            "result": 35.15
+        }
+    ]
+]
