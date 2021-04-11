@@ -17,3 +17,7 @@ $ python jeu_maths.py
 Il s'agit d'une mini-présentation de Python, basée sur le script `jeu_maths.py`.
 
 S'il y a un problème de compatibilité ou de style du texte, un fichier `present_python.pdf` peut remplacer la présentation PowerPoint.
+
+## `code_tout_simple.py`
+
+Il s'agit du code de la diapositive 5 ("Un code tout simple"). Il peut être utilisé, par exemple, pour montrer comment lancer un script.
