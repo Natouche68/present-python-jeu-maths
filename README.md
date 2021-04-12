@@ -1,5 +1,7 @@
 # Présentation de Python avec `jeu_maths.py`
 
+**⚠️ PLEASE DON'T CHANGE THIS REPO ! ⚠️**
+
 ## `jeu_maths.py`
 
 Il contient un petit jeu de maths qui propose 3 "parcours", avec 10 questions. Les questions sont récupérées à partir des fichiers `parcours_F.json`, `parcours_I.json`, et `parcours_D.json` (ces fichiers se trouvent dans le dossier `calculs`).
